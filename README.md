@@ -1,5 +1,5 @@
 ![Header](./github-header.png)
-<h3 align="center">A passionate frontend developer from Indonesian</h3>
+<h3 align="center">A passionate backend developer from Indonesian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=progsmatic&label=Profile%20views&color=0e75b6&style=flat" alt="progsmatic" /> </p>
 
