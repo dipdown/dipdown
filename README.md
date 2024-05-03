@@ -37,3 +37,14 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/rikyrism"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/rikyrism" /></a><a href="https://ko-fi.com/ko-fi.com/rikyrism"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/rikyrism" /></a></p><br><br>
+
+### :fire: My Stats :
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipdown&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipdown&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipdown&theme=dark)
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
+Credit: [shamhi](https://github.com/dipdown)
