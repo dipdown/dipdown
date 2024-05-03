@@ -1,3 +1,8 @@
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
+       alt="snake" />
+</div>
+
 ![Header](./rikyrism.gif)
 
 <h3 align="center">A passionate backend developer from Indonesian</h3>
