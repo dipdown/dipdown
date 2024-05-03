@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=progsmatic&label=Profile%20views&color=0e75b6&style=flat" alt="progsmatic" /> </p>
 
-- 🔭 I’m currently studying on **University Technology of Yogyakarta**
+- 🔭 I’m currently studying on **Indonesian**
 
 - 🌱 I’m currently learning **Laravel, Flask, etc**
 
